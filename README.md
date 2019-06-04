@@ -1,1 +1,1 @@
-# yaml-otras-traducciones
+# Recursos sobre R en español
